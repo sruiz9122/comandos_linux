@@ -1,0 +1,10 @@
+ls: cannot access 'Introduccion_Terminal': No such file or directory
+total 1776
+-rwxrwxrwx 1 sergio sergio    6912 May 17 09:17 Explorar_archivo_texto.md
+-rwxrwxrwx 1 sergio sergio    8174 May 17 08:56 Manipulando_archivos_directorios.md
+-rwxrwxrwx 1 sergio sergio    4695 May 17 10:00 Wildcards.md
+drwxrwxrwx 1 sergio sergio     512 May 17 09:56 archivos
+-rwxrwxrwx 1 sergio sergio  119471 May 17 08:14 command-line-cheat-sheet.pdf
+-rwxrwxrwx 1 sergio sergio      69 May 17 10:18 log_introduccion_terminal.log
+-rwxrwxrwx 1 sergio sergio    1948 May 17 09:04 principiosDeUsabilida.md
+-rwxrwxrwx 1 sergio sergio 1664983 May 17 08:14 slides-introduccion-termina-linea-comandos.pdf
